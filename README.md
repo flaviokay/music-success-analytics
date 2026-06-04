@@ -30,9 +30,8 @@ Raw datasets can be added locally in the `data/raw/` folder to fully reproduce t
 7. Open the Power BI file from the `powerbi/` folder.
 8. Open the Tableau workbook from the `tableau/` folder.
 9.
-<img width="2442" height="1096" alt="08_colab_06_processed_outputs" src="https://github.com/user-attachments/assets/0418ce6a-0593-49e3-a93e-fd3d0b801614" />
-<img width="2442" height="1096" alt="08_colab_06_processed_outputs" src="https://github.com/user-attachments/assets/3d515a3b-6ed7-460f-b4a5-160314b155fa" />
-<img width="2448" height="1197" alt="04_powerbi_market_geography" src="https://github.com/user-attachments/assets/7ab21b4f-5ebc-4b6d-9c2c-a62b8c93f9f6" />
+<img width="2448" height="1197" alt="04_powerbi_market_geography" src="https://github.com/user-attachments/assets/5ec5d0aa-6d35-47d6-9e12-abec464b62c5" />
+
 
 
 
