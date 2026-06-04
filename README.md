@@ -1,4 +1,6 @@
 # music-success-analytics
+Portfolio project for Data Analyst / BI Analyst / Junior Data Engineer roles, combining Python, SQL, Power BI, Tableau and Machine Learning.
+
 <img width="982" height="1006" alt="13_Er_Diagram" src="https://github.com/user-attachments/assets/fd008c79-25e6-4e41-9a24-70420bacb54a" />
 <img width="2442" height="1096" alt="08_colab_06_processed_outputs" src="https://github.com/user-attachments/assets/41526b0d-fd2d-443e-ac27-5f529a5ef061" />
 
