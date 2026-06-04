@@ -1,0 +1,16 @@
+feature,importance
+tempo,0.1339
+loudness,0.1334
+instrumentalness,0.1263
+duration_min,0.1262
+danceability,0.1068
+energy,0.1065
+release_year,0.0627
+explicit,0.015
+label_type_Independent,0.0115
+label_type_Label,0.0105
+country_Australia,0.009
+country_Japan,0.009
+country_Canada,0.0089
+country_Brazil,0.0088
+country_Mexico,0.0085

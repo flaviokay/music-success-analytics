@@ -1,0 +1,3 @@
+song_group,energy,danceability,acousticness,tempo,loudness,valence
+Non-Winner,0.723,0.571,0.165,113.843,-6.52,0.521
+Winner,0.772,0.58,0.152,115.098,-6.448,0.531

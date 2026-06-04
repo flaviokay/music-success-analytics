@@ -1,0 +1,13 @@
+song_group,audio_feature,average_value
+Outside Top 10,energy,0.727
+Top 10,energy,0.724
+Outside Top 10,danceability,0.575
+Top 10,danceability,0.567
+Outside Top 10,acousticness,0.158
+Top 10,acousticness,0.172
+Outside Top 10,tempo,114.571
+Top 10,tempo,113.158
+Outside Top 10,loudness,-6.474
+Top 10,loudness,-6.565
+Outside Top 10,valence,0.533
+Top 10,valence,0.508
